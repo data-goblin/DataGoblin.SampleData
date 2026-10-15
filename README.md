@@ -1,3 +1,10 @@
+---
+
+> [!NOTE]
+> This repo has been archived by the author. It's no longer receiving updates and remains public just for reference.
+
+---
+
 # DataGoblins.SampleData
 
 This repository contains examples and sample files for the DataGoblins.SampleData DaxLib library. It provides sample data generation functions for Power BI semantic model or report development, or testing anything that requires semantic models and/or reports.
